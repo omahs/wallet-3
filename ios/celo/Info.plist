@@ -63,6 +63,7 @@
 		<string>inbox-gmail</string>
 		<string>ymail</string>
 		<string>superhuman</string>
+    <string>sms</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
